@@ -1,0 +1,11 @@
+{
+  "name": "@andersco/utils",
+  "version": "1.0.0",
+  "description": "TS utils I regularly re-use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anders Ramsay",
+  "license": "ISC"
+}

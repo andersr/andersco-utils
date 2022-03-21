@@ -7,8 +7,7 @@
   "scripts": {
     "prepare" : "npm run build",
     "postversion" : "git push && git push --tags",
-    "build": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "author": "Anders Ramsay",
   "license": "ISC",

@@ -12,6 +12,10 @@
   },
   "author": "Anders Ramsay",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andersr/andersco-utils"
+  },
   "devDependencies": {
     "@babel/core": "^7.17.8",
     "@babel/preset-env": "^7.16.11",
